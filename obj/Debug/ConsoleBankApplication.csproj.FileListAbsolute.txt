@@ -1,0 +1,6 @@
+C:\Users\aovna\source\repos\ConsoleBankApplication\bin\Debug\ConsoleBankApplication.exe.config
+C:\Users\aovna\source\repos\ConsoleBankApplication\bin\Debug\ConsoleBankApplication.exe
+C:\Users\aovna\source\repos\ConsoleBankApplication\bin\Debug\ConsoleBankApplication.pdb
+C:\Users\aovna\source\repos\ConsoleBankApplication\obj\Debug\ConsoleBankApplication.exe
+C:\Users\aovna\source\repos\ConsoleBankApplication\obj\Debug\ConsoleBankApplication.pdb
+C:\Users\aovna\source\repos\ConsoleBankApplication\obj\Debug\ConsoleBankApplication.csprojAssemblyReference.cache
